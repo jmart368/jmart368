@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Jose 👋
 
 <!--
 **jmart368/jmart368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
