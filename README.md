@@ -1,7 +1,5 @@
 ### Hi there, I am Jose <span class="wave">👋</span>
 
-<h1>Can be used inline <span class="wave">👋🏾</span> as well!</h1>
-
 
 Welcome to my profile. I am a data analyst with interest research wheather it is solving problems or mininig insights 
 
