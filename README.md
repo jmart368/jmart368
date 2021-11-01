@@ -4,9 +4,7 @@
 
 #### I am all about visualizations and how they can be used to tell a story. After all, pictures are more memorable than words 📊📈📉.
 
-#### In my spare time I am a runner 🏃, 
-#### I love watching real football ⚽, 
-#### and I am an avgeek 🛩️. 
+#### In my spare time I am a runner 🏃, I love watching real football ⚽, and I am an avgeek 🛩️. 
 
 #### Feel free to connect and say hi. I am always open to meeting people and learning from them.
 
