@@ -1,6 +1,6 @@
 ### Hi there, I am Jose 👋
 
-### Welcome to my profile. I am a data analyst with an interest research wheather it is solving real world problems or mininig insights from large data sets 🔎🔍. 
+### Welcome to my profile. I am a data analyst with an interest research wheather it is solving real world problems or mininig insights from large data sets �📂. 
 
 ### I am all about visualizations and how they can be used to tell a story. After all, pictures are more memorable than words 📊📈📉.
 
