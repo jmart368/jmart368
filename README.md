@@ -1,6 +1,6 @@
 #### Hi there, I am Jose 👋
 
-#### Welcome to my profile. I am a data analyst with an interest in research whether it is solving real world problems or mininig insights from large data sets 🔎📂. I enjoy making visualizations and how they can be used to tell a story. After all, pictures are more memorable than words 📊📈📉.
+#### I am a data analyst with an interest in research whether it is solving real world problems or mininig insights from large data sets 🔎📂. I enjoy making visualizations and given you a story behind the data 📊📈📉.
 
 #### In my spare time I am a runner 🏃, I love watching real football ⚽, and I am an avgeek 🛩️. 
 
