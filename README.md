@@ -1,6 +1,6 @@
 #### Hi there, I am Jose 👋
 
-#### I am a data analyst with an interest in research whether it is solving business problems 📈📉, addressing current social issues impacting our communities 🌎, or mininig insights from large data sets 🔎📂 through story telling and visulization 📊📈📉.
+#### I am a data analyst with an interest in research whether it is solving business problems 📈📉, addressing current social issues impacting our communities 🌎, or mininig insights from large data sets 🔎📂 through story telling and visulization 📊.
 
 #### In my spare time I am a runner 🏃, I love watching football ⚽, and I am an avgeek (short for aviation geek) 🛩️. 
 
