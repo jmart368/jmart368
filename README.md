@@ -4,7 +4,7 @@
 
 #### In my spare time I am a runner 🏃, I love watching football ⚽, and I am an avgeek (short for aviation geek) 🛩️. 
 
-#### Feel free to connect and say hi. I am always open to meeting people and learning from them.
+#### Feel free to connect and say hi. I am always open to making connections and learning from other repositories.
 
 <!--
 **jmart368/jmart368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
